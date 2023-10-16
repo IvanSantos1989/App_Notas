@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Aplicação Notas</string>
+    <string name="definicao_acao">Definições</string>
+    <string name="titulo">Título</string>
+    <string name="conteudos">Conteúdos</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="ok">OK</string>
+    <string name="apagar">Apagar</string>
+    <string name="selecionar_theme">Mudar para o tema noturno?</string>
+    <string name="adicionar_divisoria">Adicionar divisória entre notas?</string>
+    <string name="adicionar_nova_nota">Adicionar nova nota…</string>
+    <string name="nota_vazia">Ver se campos de título e conteúdo não estão vazios.</string>
+    <string name="nota_salva">Nota salva!</string>
+    <string name="nota_apagada">Nota apagada!</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+</resources>
